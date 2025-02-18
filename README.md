@@ -1,2 +1,2 @@
-# b-1129-Fashion_MNIST_CNN_Project
+# Fashion_MNIST_CNN_Project
 CNN Project (Keras Dataset)
